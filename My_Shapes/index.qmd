@@ -1,0 +1,29 @@
+# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
+
+## Piagam Diri
+
+| No | Kategori | Penjelasan |
+|---|---|---|
+| 1 | **Nama** | Muhammad Afif Habiburrahman |
+| 2 | **Pernyataan Misi Pribadi** | Saya ingin memanfaatkan kemampuan saya di bidang teknologi informasi untuk menciptakan solusi yang bermanfaat bagi orang lain, dengan tetap menjaga kejujuran, ketekunan, dan empati dalam setiap langkah yang saya ambil. |
+| 3 | **Kekuatan Khas (S)** | **Honesty (Kejujuran):** Selalu berusaha jujur dalam perkataan dan tindakan, baik terhadap diri sendiri maupun orang lain.<br><br>**Perseverance (Ketekunan):** Tetap berkomitmen dan fokus hingga menyelesaikan apa yang telah dimulai, meskipun menghadapi kesulitan.<br><br>**Kindness (Kebaikan hati):** Bersedia membantu orang lain dengan tulus selama masih dalam kemampuan saya. |
+| 4 | **Nilai Inti & Gairah (H)** | **Nilai Inti #1:** Tanggung jawab pribadi dan integritas.<br>**Nilai Inti #2:** Pembelajaran berkelanjutan dan ketelitian.<br>**Gairah:** Pemanfaatan teknologi untuk membantu kehidupan manusia menjadi lebih efisien dan mudah. |
+| 5 | **Keterampilan Utama (A)** | **Hard Skills:** Pemrograman (Python, Java, C), Pengelolaan data dan logika algoritmik, Analisis sistem dan desain sistem informasi.<br><br>**Soft Skills:** Fokus dan disiplin tinggi dalam menyelesaikan tugas, Berpikir logis dan sistematis, Empati dan kemampuan membantu orang lain secara praktis. |
+| 6 | **Profil Kepribadian (P)** | **Tipe MBTI:** ISTJ (Introverted, Sensing, Thinking, Judging)<br>**Gaya Kerja:** Bekerja secara mandiri dan terstruktur, fokus pada kualitas hasil, serta menyelesaikan tugas hingga tuntas sebelum berpindah ke hal lain. Saya lebih nyaman bekerja dengan sistem yang jelas dan target yang terukur. |
+| 7 | **Pelajaran Hidup Kunci (E)** | • Dari pengalaman selama belajar di kampus, saya belajar bahwa **disiplin dan konsistensi jauh lebih penting daripada motivasi sesaat.**<br>• Dari pengalaman membantu teman memahami materi, saya belajar bahwa **kebaikan kecil dapat menciptakan dampak besar bagi orang lain.** |
+
+---
+
+## Narasi Diri
+
+Saya adalah seorang mahasiswa jurusan Sistem dan Teknologi Informasi di kampus ITB, Bandung. Saya mengenal diri saya sebagai seseorang yang tenang, rasional, dan cenderung lebih banyak bekerja dalam diam. Saya tidak selalu mudah menyesuaikan diri di lingkungan sosial yang besar, tetapi saya merasa nyaman ketika bisa fokus mengerjakan sesuatu yang benar-benar saya minati.
+
+Hasil asesmen **VIA Character Strengths** menunjukkan lima kekuatan utama saya: **honesty, prudence, perseverance, humility, dan kindness.** Lima hal itu saya rasakan sangat menggambarkan bagaimana saya menjalani hidup sehari-hari. Saya percaya pada kejujuran, bukan hanya kepada orang lain, tapi juga kepada diri sendiri. Saya cenderung berhati-hati dalam mengambil keputusan, terutama ketika menyangkut nilai akademik atau hal penting lain yang mempengaruhi masa depan saya. Dan ketika saya mulai mengerjakan sesuatu, saya akan terus menekuninya sampai mencapai hasil yang saya anggap tuntas.
+
+Saya tidak memiliki banyak ketertarikan, tetapi ketika saya benar-benar menyukai suatu hal, saya akan mempelajarinya sampai detail terkecil. Misalnya ketika saya merakit **Gundam model kit**, saya bisa menghabiskan waktu berjam-jam memperhalus bagian kecil agar hasilnya terlihat sempurna. Hal yang sama terjadi ketika saya menulis program atau bermain *roguelike games*. Rasa ingin tahu dan dorongan untuk menyelesaikan tantangan itulah yang membuat saya terus belajar dan bereksperimen.
+
+Dalam kehidupan sehari-hari, saya mungkin terlihat sederhana dan tidak menonjol, tetapi saya memiliki prinsip untuk selalu membantu jika saya mampu. Beberapa kali orang lain datang kepada saya untuk meminta bantuan memahami materi atau memecahkan suatu masalah, dan saya merasa senang bisa menolong. Saya tidak mencari pengakuan, tetapi saya menghargai momen kecil ketika orang lain merasa terbantu oleh kehadiran saya.
+
+Kepribadian **ISTJ** saya membuat saya lebih nyaman bekerja secara terencana dan mandiri. Saya menyukai alur kerja yang terstruktur, logis, dan menghasilkan sesuatu yang konkret. Saya tidak terlalu banyak berbicara (setidaknya di lingkup umum, bukan pertemanan dekat saya), tetapi ketika saya berbicara, saya ingin memastikan kata-kata saya berarti. Saya sangat menghargai kepercayaan dan hubungan yang tulus. Bagi saya, lebih baik memiliki sedikit teman yang benar-benar dekat daripada banyak kenalan yang hanya bersifat permukaan.
+
+Saya percaya bahwa setiap orang memiliki cara sendiri untuk memberi makna dalam hidup. Bagi saya, makna itu terletak pada kemampuan untuk terus belajar, tetap jujur, dan menggunakan apa yang saya tahu untuk membantu orang lain, sekecil apapun dampaknya.

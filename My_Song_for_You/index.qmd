@@ -1,0 +1,43 @@
+# My Songs for You
+
+Berikut adalah lagu yang merepresentasikan perjalanan pencarian jati diri saya.
+
+<div>
+<audio controls style="width: 100%;">
+  <source src="../audio/BE Your Glow.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</div>
+
+<br>
+
+---
+
+### **Be Your Glow**
+**Lyrics by:** Muhammad Afif Habiburrahman  
+**Music by:** SUNO
+
+**[Verse 1]** Mirror whispers lies I don't need to hear  
+Every crack shows a story  
+Every scar's sincere  
+Tried to be someone else  
+But they never fit  
+Now I'm stepping out  
+Yeah, I'm done with it  
+
+**[Pre-chorus]** The world can spin, it can scream, it can shout  
+But **I’m the only one I can't live without** **[Chorus]** **Be your glow** Let it shine, let it show  
+You’re the fire, you’re the spark, you’re the soul  
+No one else, no disguise, just your own  
+Be your glow, be your glow  
+
+**[Verse 2]** Chasing shadows only leaves you lost  
+Every mask has a price, what’s the cost?  
+Painted smiles can fade, but truth will stay  
+**I’m the art I was born to display** **[Pre-chorus]** They’ll point, they’ll judge, let them misunderstand  
+But the power’s mine when I take my stand  
+
+**[Chorus]** **Be your glow** Let it shine, let it show  
+You’re the fire, you’re the spark, you’re the soul  
+No one else, no disguise, just your own  
+Be your glow, be your glow

@@ -1,0 +1,21 @@
+# UAS-2 My Opinions
+
+## "Transformasi Digital: Menggeser Paradigma Kelangkaan Menjadi Kelimpahan yang Terdistribusi"
+
+### 1. Sintesis Informasi, Nilai, dan Empati
+Opini saya mengenai ketahanan pangan global merupakan hasil integrasi mendalam antara data empiris, prinsip keadilan sosial, dan kepekaan nurani terhadap penderitaan sesama. Secara statistik, kita menghadapi angka yang sangat memprihatinkan: di tahun 2025, sekitar **8,5% penduduk dunia** masih hidup dalam kemiskinan ekstrem dan kelaparan kronis (Referensi: 10 Masalah Kemanusiaan).
+
+Namun, data tersebut juga menunjukkan kontradiksi yang menyakitkan: dunia sebenarnya memproduksi makanan yang lebih dari cukup untuk memberi makan seluruh populasi. Fenomena ini membuktikan bahwa masalah sesungguhnya bukan pada kelangkaan produksi, melainkan pada **kegagalan distribusi dan sistem koordinasi**. Opini saya berpijak pada keyakinan bahwa ketidaksetaraan akses nutrisi ini adalah sebuah kegagalan moral yang harus diperbaiki melalui intervensi teknologi yang tepat guna.
+
+### 2. Krisis Informasi dalam Rantai Pasok
+Menurut pandangan saya, hambatan terbesar dalam ketahanan pangan saat ini adalah **ketidakjelasan data atau kegagalan visibilitas**. Kita hidup di era di mana kita mampu melacak posisi sebuah paket belanjaan mewah secara *real-time* hingga ke depan pintu rumah, namun kita sering kali tidak tahu bahwa di radius 2 kilometer dari tempat kita berdiri, terdapat berton-ton makanan layak konsumsi yang sedang dibuang oleh supermarket karena sistem inventaris yang kaku.
+
+Celah informasi ini adalah "titik buta" yang membuat sistem distribusi kita menjadi egoistik dan tidak efisien. Teknologi informasi harus mengambil peran sentral untuk menutup celah ini. Sistem informasi di era AI seharusnya tidak lagi hanya digunakan untuk memaksimalkan profit korporasi, melainkan harus dideikasikan untuk memastikan transparansi stok pangan global agar tidak ada lagi sumber daya yang terbuang secara sia-sia.
+
+### 3. Peran AI sebagai Fasilitator Kemanusiaan
+Saya berpendapat bahwa penggunaan AI dalam sistem pangan global harus memiliki **orientasi etis yang jelas**. Selama ini, AI lebih banyak dikembangkan untuk memprediksi fluktuasi harga pasar atau perilaku konsumen demi keuntungan bisnis. Hal ini harus diubah; AI harus diposisikan sebagai fasilitator kemanusiaan yang menjembatani kebutuhan antarmanusia.
+
+Ketimpangan akan terus berlanjut jika kita membiarkan algoritma bekerja tanpa arah nilai yang benar. AI dalam sistem NUTRIAID harus didesain untuk mendahulukan **"hak untuk hidup"** di atas "hak untuk memiliki keuntungan lebih". Dengan kata lain, AI harus mampu memprediksi risiko kerawanan pangan di wilayah rentan dan secara otomatis menyarankan pengalihan sumber daya ke sana, meskipun secara ekonomi komersial hal tersebut mungkin kurang menguntungkan.
+
+### 4. Kesimpulan Opini
+Kesimpulan dari pemikiran saya adalah bahwa teknologi informasi di era kecerdasan buatan harus menjadi instrumen untuk **mendemokratisasi akses terhadap nutrisi**. Kita perlu melakukan perubahan paradigma besar dari "siapa yang memiliki daya beli paling tinggi" menjadi "siapa yang memiliki kebutuhan paling mendesak". NUTRIAID adalah manifestasi dari pendapat saya bahwa kolaborasi antara kecerdasan mesin dan kepedulian manusia adalah satu-satunya jalan keluar untuk mengakhiri kelaparan di bumi.

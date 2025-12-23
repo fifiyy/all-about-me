@@ -1,0 +1,16 @@
+# References {.unnumbered}
+
+Berikut adalah referensi dan sumber inspirasi yang digunakan dalam penyusunan portofolio ini:
+
+### Literatur & Data
+* **FAO, IFAD, UNICEF, WFP, and WHO.** (2024). *The State of Food Security and Nutrition in the World 2024*. Rome, FAO. (Sebagai acuan data populasi dan tingkat kelaparan global).
+* **Seligman, M. E. P., & Peterson, C.** (2004). *Character Strengths and Virtues: A Handbook and Classification*. Oxford University Press. (Referensi untuk tes VIA Character Strengths).
+* **United Nations.** *Sustainable Development Goals (SDGs) - Goal 2: Zero Hunger*. Diakses dari un.org.
+
+### Materi Perkuliahan
+* **Langi, Armein Z. R.** (2025). *Materi Kuliah II-2100 Komunikasi Interpersonal dan Publik*. Program Studi Sistem dan Teknologi Informasi, ITB.
+* **Asesmen KIPP 2025.** *10 Masalah Kemanusiaan Global*. (Materi rujukan untuk analisis masalah beban [B]).
+
+### Alat & Teknologi
+* **Quarto.** (2024). *Open-source scientific and technical publishing system*. [quarto.org](https://quarto.org).
+* **Suno AI.** (2024). *Generative Music for "Be Your Glow"*. [suno.com](https://suno.com).

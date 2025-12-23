@@ -1,0 +1,34 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Portfolio Asesmen II-2100 KIPP"
+  author: "Muhammad Afif Habiburrahman (18224099)"
+  date: "12/23/2025"
+  
+  chapters:
+    - index.qmd
+    - part: "UTS - All About Me"
+      chapters:
+        - All_About_me/index.qmd
+        - My_Song_for_You/index.qmd
+        - My_Stories_for_You/index.qmd
+        - My_Shapes/index.qmd
+        - My_Personal_Reviews/index.qmd
+    - part: "UAS - My Masterpiece"
+      chapters:
+        - My_Concepts/index.qmd
+        - My_Opinions/index.qmd
+        - My_Innovations/index.qmd
+        - My_Knowledge/index.qmd
+        - My_Professional_Reviews/index.qmd
+    - summary.qmd
+    - references.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+  pdf:
+    documentclass: scrreprt

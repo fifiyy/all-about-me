@@ -1,0 +1,43 @@
+---
+title: "Home"
+about:
+  template: jolla
+  image: images/profil.jpeg
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/muhammad-afif-habiburrahman-96829931b/
+    - icon: github
+      text: Github
+      href: https://github.com/fifiyy
+---
+
+## Halo, Saya Afif! 👋 {.unnumbered style="text-align: center;"}
+
+::: {.text-center}
+Saya adalah mahasiswa **Sistem dan Teknologi Informasi ITB** yang percaya bahwa ketelitian dan ketekunan adalah kunci dalam menciptakan solusi teknologi yang bermakna. 
+
+Website ini merupakan portfolio digital saya untuk mata kuliah **Komunikasi Interpersonal dan Publik (KIPP)**. Di sini, Anda akan menemukan perjalanan refleksi diri saya (UTS) dan visi saya mengenai masa depan distribusi pangan dunia melalui teknologi AI (UAS).
+:::
+
+&nbsp;
+
+::: {.text-center}
+> **"In the end, it doesn’t really matter if you can’t be like others. Something that really matters is when you can be the best version of yourself!"**
+:::
+
+---
+
+### Fokus Utama {.unnumbered style="text-align: center;"}
+
+::: {style="text-align: left; max-width: 600px; margin: 0 auto;"}
+* **Teknologi Berbasis Empati:** Mengembangkan sistem yang tidak hanya efisien, tapi juga manusiawi.
+* **Analisis & Presisi:** Memastikan setiap detail sistem bekerja sebagaimana mestinya.
+* **Inovasi Pangan:** Melalui konsep **NUTRIAID**, saya berupaya menjawab tantangan *food waste* global.
+:::
+
+---
+
+::: {.text-center}
+*Gunakan menu di samping untuk mulai menjelajahi setiap bab dalam portfolio ini.*
+:::

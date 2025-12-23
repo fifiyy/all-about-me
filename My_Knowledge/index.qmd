@@ -1,0 +1,23 @@
+# UAS-4 My Knowledge
+
+## "Produk Pengetahuan: Atlas Intelegensi Pangan Global"
+
+Sebagai hasil dari proses pembelajaran ini, saya menghasilkan serangkaian artefak pengetahuan yang merepresentasikan pemahaman mendalam saya terhadap penyelesaian masalah kemanusiaan melalui teknologi:
+
+| No | Produk Pengetahuan | Penjelasan |
+|---|---|---|
+| 1 | **Peta Pengetahuan Primitif** | Visualisasi data komprehensif sebaran kerawanan pangan global 2025. Mencakup data 8,2 miliar penduduk, aksesibilitas infrastruktur negara berkembang, dan korelasi limbah pangan vs kelaparan. |
+| 2 | **Peta Pemecahan Masalah** | Diagram logika alur solusi NUTRIAID. Menunjukkan bagaimana kekuatan [K] diproses algoritma AI menjadi solusi beban [B], dari data sensor hingga distribusi otomatis. |
+| 3 | **Jurnal Pembelajar Reflektif** | Dokumentasi evolusi pemikiran dan integrasi keterampilan teknis dengan kesadaran sosial. Menegaskan bahwa teknologi di era AI harus didasari pemahaman mendalam kebutuhan manusia. |
+
+### 1. Peta Pengetahuan Primitif (Primitive Knowledge Map)
+Berisi visualisasi data komprehensif mengenai sebaran kerawanan pangan global tahun 2025. Peta ini mencakup data mengenai 8,2 miliar penduduk, tingkat aksesibilitas infrastruktur di negara berkembang, dan korelasi antara limbah pangan di negara maju dengan tingkat kelaparan di wilayah lain.
+
+### 2. Peta Pemecahan Masalah (Problem Solving Map)
+Sebuah diagram logika yang menggambarkan alur solusi NUTRIAID. Peta ini menunjukkan bagaimana input data (kekuatan K) diproses melalui algoritma AI untuk menghasilkan output berupa ketahanan pangan (solusi atas beban B). Ini mencakup langkah-langkah teknis mulai dari pengambilan data sensor hingga pengambilan keputusan distribusi otomatis.
+
+### 3. Jurnal Pembelajar Reflektif (Reflective Journal)
+Catatan mengenai evolusi pemikiran saya selama merancang mahakarya ini. Jurnal ini mendokumentasikan bagaimana saya belajar mengintegrasikan keterampilan teknis sistem informasi dengan kesadaran sosial (komunikasi interpersonal). Refleksi ini menegaskan bahwa keahlian teknologi di era AI tidak ada artinya tanpa didasari oleh pemahaman mendalam tentang kebutuhan manusia.
+
+### 4. Kesimpulan Produk Pengetahuan
+Karya pengetahuan ini bukan hanya sekadar tugas akademis, melainkan aset intelektual yang dapat dijadikan referensi untuk pengembangan sistem distribusi pangan yang lebih manusiawi dan berbasis data di masa depan.
