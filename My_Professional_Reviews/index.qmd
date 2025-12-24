@@ -1,2 +1,25 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+# My Professional Reviews {.unnumbered}
+
+Profesionalisme melibatkan kemampuan untuk memberikan kritik konstruktif dan menerima masukan. Bagian ini mendokumentasikan penilaian profesional saya terhadap solusi teknologi yang dikembangkan di era AI.
+
+### 1. Professional Self-Reflection
+Saya menilai mahakarya **NUTRIAID** berdasarkan kelayakan teknis, etika AI, dan potensi dampaknya terhadap beban masalah [B]. Saya memastikan bahwa inovasi yang saya buat bukan sekadar ide, tetapi sebuah solusi yang terukur dan dapat dipertanggungjawabkan secara profesional.
+
+### 2. Professional Peer Review
+Saya telah meninjau konsep dan inovasi (Masterpiece) dari rekan mahasiswa lain. Dalam proses ini, saya berperan sebagai "reviewer" yang menilai:
+* **Originalitas:** Sejauh mana inovasi rekan saya memberikan kebaruan.
+* **Logika Sistem:** Apakah arsitektur [K] yang mereka rancang mampu mengangkat beban [B] secara rasional.
+* **Kualitas Komunikasi:** Sejauh mana ide profesional tersebut dapat dipahami oleh orang lain.
+
+---
+
+### Lembar Skor Penilaian Akhir (Excel)
+
+Tabel rincian penilaian profesional (Self-Assessment & Peer Review) untuk seluruh komponen UAS tersedia dalam tautan berikut:
+
+::: {.callout-important}
+## Download Lembar Skor UAS
+<!-- [**Unduh Lembar_Skor_UAS_Afif.xlsx**](./Lembar_Skor_UAS_Afif.xlsx) -->
+:::
+
+*Penilaian ini merupakan representasi dari objektivitas saya dalam memandang kualitas pekerjaan di lingkungan profesional STI.*
