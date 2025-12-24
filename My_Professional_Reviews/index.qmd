@@ -7,6 +7,7 @@ Saya menilai mahakarya **NUTRIAID** berdasarkan kelayakan teknis, etika AI, dan 
 
 ### 2. Professional Peer Review
 Saya telah meninjau konsep dan inovasi (Masterpiece) dari rekan mahasiswa lain. Dalam proses ini, saya berperan sebagai "reviewer" yang menilai:
+
 * **Originalitas:** Sejauh mana inovasi rekan saya memberikan kebaruan.
 * **Logika Sistem:** Apakah arsitektur [K] yang mereka rancang mampu mengangkat beban [B] secara rasional.
 * **Kualitas Komunikasi:** Sejauh mana ide profesional tersebut dapat dipahami oleh orang lain.
@@ -19,7 +20,6 @@ Tabel rincian penilaian profesional (Self-Assessment & Peer Review) untuk seluru
 
 ::: {.callout-important}
 ## Download Lembar Skor UAS
-<!-- [**Unduh Lembar_Skor_UAS_Afif.xlsx**](./Lembar_Skor_UAS_Afif.xlsx) -->
+[**Unduh lembar skor UAS disini**](./UAS-5%20Skor_18224099.xlsx)
 :::
-
 *Penilaian ini merupakan representasi dari objektivitas saya dalam memandang kualitas pekerjaan di lingkungan profesional STI.*
